@@ -1,0 +1,10 @@
+{
+  "name": "mia-pets-website",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "cd app && npm run build",
+    "start": "cd app && npm start",
+    "dev": "cd app && npm run dev"
+  }
+}
